@@ -3,6 +3,6 @@
 		"@babel/preset-env"
 	],
 	"plugins": [
-		"@babel/transform-regenerator"
+		"@babel/plugin-transform-regenerator"
 	]
 }
